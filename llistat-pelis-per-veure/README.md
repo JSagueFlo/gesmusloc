@@ -12,6 +12,8 @@ llistat-pelis-per-veure
 * Edge of tomorrow
 * No strings attached
 * Friends with benefits
+* En nom de la Rosa (Sean Conery)
+* La teoria del todo (Steven hawking)
 
 <br>
 
