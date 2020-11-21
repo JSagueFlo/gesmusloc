@@ -1,0 +1,1 @@
+gestio-series-en-local
