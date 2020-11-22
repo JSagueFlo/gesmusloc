@@ -14,6 +14,7 @@ llistat-pelis-per-veure
 * Friends with benefits
 * En nom de la Rosa (Sean Conery)
 * La teoria del todo (Steven hawking)
+* 7 Pounds
 
 <br>
 
