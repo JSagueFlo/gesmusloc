@@ -1,3 +1,9 @@
 gestio-musica-en-local
 
-* Checkout GoogleDrive
+
+* Checkout GoogleDrive Notes
+
+
+[ ] TODO: REMEMBER LIST:
+  * Mayonesa
+  * Booomba
