@@ -17,6 +17,9 @@ llistat-pelis-per-veure
 * 7 Pounds
 * Come reza ama
 
+* Inside out (Del revés)
+* Up
+
 <br>
 
 * Saving private Ryan (Matt Daemon ?)
