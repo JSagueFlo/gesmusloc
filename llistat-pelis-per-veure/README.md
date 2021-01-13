@@ -15,6 +15,7 @@ llistat-pelis-per-veure
 * En nom de la Rosa (Sean Conery)
 * La teoria del todo (Steven hawking)
 * 7 Pounds
+* El club de los poetas muertos
 
 <br>
 
