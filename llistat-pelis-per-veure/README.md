@@ -16,6 +16,8 @@ llistat-pelis-per-veure
 * La teoria del todo (Steven hawking)
 * 7 Pounds
 * El club de los poetas muertos
+* Interstellar
+* Reservoir Dogs
 
 <br>
 
