@@ -18,6 +18,7 @@ llistat-pelis-per-veure
 * El club de los poetas muertos
 * Interstellar
 * Reservoir Dogs
+* Invictus (Nelson Mandela)
 
 <br>
 
