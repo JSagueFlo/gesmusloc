@@ -19,6 +19,7 @@ llistat-pelis-per-veure
 * Interstellar
 * Reservoir Dogs
 * Invictus (Nelson Mandela)
+* el gran dictador
 
 <br>
 
