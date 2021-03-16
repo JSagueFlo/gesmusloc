@@ -20,6 +20,7 @@ llistat-pelis-per-veure
 * Reservoir Dogs
 * Invictus (Nelson Mandela)
 * el gran dictador
+* el mago de oz
 
 <br>
 
