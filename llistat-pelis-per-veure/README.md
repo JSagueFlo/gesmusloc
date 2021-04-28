@@ -21,6 +21,8 @@ llistat-pelis-per-veure
 * Invictus (Nelson Mandela)
 * el gran dictador
 * el mago de oz
+* In time
+
 
 <br>
 
@@ -32,3 +34,4 @@ llistat-pelis-per-veure
 * Inside out (Del revés)
 * Up
 * Instant family
+* Soldados de Salamina
